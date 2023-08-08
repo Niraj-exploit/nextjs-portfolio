@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 		default: "niraj-exploit",
 		template: "%s | niraj-exploit",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "hehe just a try 😂😂",
 	openGraph: {
 		title: "niraj-exploit",
 		description:
